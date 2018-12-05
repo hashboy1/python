@@ -1,0 +1,14 @@
+neg:  
+    shit.  
+    waste my money.  
+    waste of money.  
+    sb movie.  
+    waste of time.  
+    a shit movie.  
+pos:  
+    nb! nb movie!  
+    nb!  
+    worth my money.  
+    I love this movie!  
+    a nb movie.  
+    worth it!
