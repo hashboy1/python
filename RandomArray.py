@@ -1,4 +1,7 @@
 import numpy as np
-arr = np.arange(25)
+
+res=input("please input the dimension of the array: ")
+qty=int(res)
+arr = np.arange(qty*qty)
 np.random.shuffle(arr)
-print(arr.reshape(5,5))
+print(arr.reshape(qty,qty))
